@@ -1,0 +1,17 @@
+X is downwards
+Y is sideways
+(0,0) is on the top-left corner
+
+Change move piece function as 
+
+Confusion about naming moves and then making chages in them. If that will change the actual board or not
+
+keep an 8*8 array with all current piece locations and types
+
+KING IN CHECK/King safety(dont' let player make any moves if their king is in check)
+UNDO
+RESTART
+RESIGN
+SHOW LIST OF DEAD PIECES ON SIDE
+
+ADD CUSTOM PIECES
